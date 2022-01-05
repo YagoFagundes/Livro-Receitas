@@ -4,3 +4,4 @@
 
 * Strogonoff de Carne
 * Lasanha
+* Batata Dorê
