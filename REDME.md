@@ -5,3 +5,4 @@
 * Strogonoff de Carne
 * Lasanha
 * Empadão
+* Batata Dorê
